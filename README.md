@@ -2,11 +2,12 @@
 
 
 How does application works? 
+
 So in this application we make a simply To-Do-App which helps to data store using Room Persistence Library(database) along with Live data.
 
 We simply click the Floating Action Button(+)and they will open a dialog box which ask your name and your amount (from taking someone or giving to the somone).
 
-Then this app helps to store your data in the efficient manner and remember all the data which is store in the database
+Then this app helps to store your data in the efficient manner and remember all the data which is store in the database.
 
 
 
