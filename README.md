@@ -9,6 +9,19 @@ We simply click the Floating Action Button(+)and they will open a dialog box whi
 
 Then this app helps to store your data in the efficient manner and remember all the data which is store in the database.
 
+Topics used:
+
+▪ roomPersistenceLibrary
+
+▪ liveData
+
+▪ viewModel
+
+▪ repository
+
+▪ kotlinCoroutines
+
+
 
 
 
